@@ -1,4 +1,4 @@
 # TRIVIA DE CULTURA GENERAL
 
-# [demo](https://replit.com/@jorgegala/trivia)
+# [demo](https://replit.com/@jorgegala/Trivia)
 
